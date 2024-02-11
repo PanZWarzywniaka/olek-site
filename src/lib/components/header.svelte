@@ -30,6 +30,7 @@
 <style>
 	nav {
 		padding-block: var(--size-7);
+		border-bottom: 1px solid var(--border);
 	}
 
 	.links {
