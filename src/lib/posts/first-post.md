@@ -1,6 +1,6 @@
 ---
 title: First post
-description: First post.
+description: First post to test if everythings working
 
 date: "2024-2-11"
 
