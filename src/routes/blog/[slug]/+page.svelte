@@ -1,6 +1,9 @@
 <script lang="ts">
 	import { formatDate } from '$lib/utils'
 
+	// code highlighting
+	import 'prismjs/themes/prism-tomorrow.min.css'
+
 	export let data
 </script>
 
