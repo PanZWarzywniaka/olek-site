@@ -1,6 +1,7 @@
 <script lang="ts">
 	import * as config from '$lib/config'
 	import Toggle from '$lib/components/toggle.svelte'
+	import { ExternalLinkIcon } from 'lucide-svelte'
 </script>
 
 <nav>
@@ -19,7 +20,7 @@
 			<a href="/contact">Contact</a>
 		</li>
 		<li>
-			<a href="https://maps.olek.site/" target="_blank">Pretty maps</a>
+			<a href="https://maps.olek.site/" target="_blank">Pretty maps<ExternalLinkIcon /></a>
 		</li>
 	</ul>
 
@@ -38,6 +39,9 @@
 	a {
 		color: inherit;
 		text-decoration: none;
+		overflow: hidden;
+		display: flex;
+		gap: 5px;
 	}
 
 	@media (min-width: 760px) {
