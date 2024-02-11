@@ -1,13 +1,20 @@
 <script lang="ts">
 	import * as config from '$lib/config'
+	import { theme } from '$lib/stores/theme'
 </script>
 
 <footer>
 	<p>{config.title} &copy {new Date().getFullYear()}</p>
 	<div id="icons">
-		<a href="https://github.com/PanZWarzywniaka" target="_blank">
-			<img src="github-mark-white.svg" alt="Your Icon" />
-		</a>
+		{#if $theme === 'dark'}
+			<a href="https://github.com/PanZWarzywniaka" target="_blank">
+				<img src="github-mark-white.svg" alt="Your Icon" />
+			</a>
+		{:else}
+			<a href="https://github.com/PanZWarzywniaka" target="_blank">
+				<img src="github-mark.svg" alt="Your Icon" />
+			</a>
+		{/if}
 
 		<a href="https://www.linkedin.com/in/olek-osikowicz-02018a251/" target="_blank">
 			<img src="LI-In-Bug.png" alt="Your Icon" />
