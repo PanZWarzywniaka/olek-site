@@ -4,8 +4,8 @@
 <div class="container">
 	<div id="description">
 		<h2>Hi! I am Olek</h2>
-		<span>PhD <a href="/research">Researcher</a></span>
-		<span><a href="https://maps.olek.site/" target="_blank">Map maker</a></span>
+		<span>PhD Researcher</span>
+		<span>Map maker</span>
 		<span><a href="https://en.wikipedia.org/wiki/Pierogi">Pierogi</a> enjoyer</span>
 	</div>
 	<div id="image">
@@ -14,9 +14,6 @@
 </div>
 
 <style>
-	img {
-		/* border: 1px white solid; */
-	}
 	h2 {
 		padding-bottom: 20px;
 	}
