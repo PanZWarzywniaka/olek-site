@@ -2,11 +2,10 @@
 title: First post
 description: First post.
 
-date: "2023-4-14"
+date: "2024-2-11"
 
 categories:
-    - mapmaking
-    - svelte
+    - test
 
 published: true
 
@@ -14,7 +13,7 @@ published: true
 
 ## Mark down
 
-Hey friends
+Code highlighting test
 
 ```ts
 
