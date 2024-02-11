@@ -12,13 +12,13 @@
 			<a href="/research">Research</a>
 		</li>
 		<li>
-			<a href="https://maps.olek.site/" target="_blank">Pretty maps</a>
-		</li>
-		<li>
 			<a href="/blog">Blog</a>
 		</li>
 		<li>
 			<a href="/contact">Contact</a>
+		</li>
+		<li>
+			<a href="https://maps.olek.site/" target="_blank">Pretty maps</a>
 		</li>
 	</ul>
 
