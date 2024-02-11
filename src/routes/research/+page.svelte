@@ -14,15 +14,3 @@
 		</p>
 	</div>
 </article>
-
-<style>
-	article {
-		max-inline-size: var(--size-content-3);
-		margin-inline: auto;
-	}
-
-	h1 {
-		text-transform: capitalize;
-		margin-bottom: var(--size-2);
-	}
-</style>

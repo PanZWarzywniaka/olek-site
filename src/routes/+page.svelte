@@ -4,7 +4,7 @@
 <div class="container">
 	<div id="description">
 		<h2>Hi! I am Olek</h2>
-		<span><a href="/research">PhD Researcher</a></span>
+		<span>PhD <a href="/research">Researcher</a></span>
 		<span><a href="https://maps.olek.site/" target="_blank">Map maker</a></span>
 		<span><a href="https://en.wikipedia.org/wiki/Pierogi">Pierogi</a> enjoyer</span>
 	</div>
