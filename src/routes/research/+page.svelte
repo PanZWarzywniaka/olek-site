@@ -17,8 +17,7 @@
 		<h2>Autonomous Vehicles Testing</h2>
 		<p>
 			I am concentrating my research on scenario reconstruction from real-world accidents for robust
-			verification and validation of ML-enabled automated driving systems (ADS). This involves
-			developing innovative AI testing methodologies.
+			verification and validation of ML-enabled automated driving systems (ADS).
 		</p>
 		<h2>Talks</h2>
 		<p>
