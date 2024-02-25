@@ -14,7 +14,7 @@ published: true
 
 ## Introduciton
 
-When I was coding my [map making website](maps.olek.site) got to an issue of how to create a responsive location search box like one on Google maps:
+When I was coding my <a href="https://maps.olek.site/" target="_blank">map making website</a> got to an issue of how to create a responsive location search box like one on Google maps:
 
 
 ![alt text](google_search_box.gif)
