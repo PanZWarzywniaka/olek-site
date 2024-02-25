@@ -1,6 +1,10 @@
 <script lang="ts">
 	import * as config from '$lib/config'
 	import { theme } from '$lib/stores/theme'
+	import github_logo_white from '$lib/assets/footer/github-mark-white.svg'
+	import github_logo_dark from '$lib/assets/footer/github-mark.svg'
+	import linkedin_logo from '$lib/assets/footer/linkedin.png'
+	// import { Linkedin } from 'lucide-svelte'
 </script>
 
 <footer>
@@ -8,16 +12,16 @@
 	<div id="icons">
 		{#if $theme === 'dark'}
 			<a href="https://github.com/PanZWarzywniaka" target="_blank">
-				<img src="github-mark-white.svg" alt="Your Icon" />
+				<img src={github_logo_white} alt="Your Icon" />
 			</a>
 		{:else}
 			<a href="https://github.com/PanZWarzywniaka" target="_blank">
-				<img src="github-mark.svg" alt="Your Icon" />
+				<img src={github_logo_dark} alt="Your Icon" />
 			</a>
 		{/if}
 
 		<a href="https://www.linkedin.com/in/olek-osikowicz-02018a251/" target="_blank">
-			<img src="LI-In-Bug.png" alt="Your Icon" />
+			<img src={linkedin_logo} alt="Your Icon" />
 		</a>
 	</div>
 </footer>

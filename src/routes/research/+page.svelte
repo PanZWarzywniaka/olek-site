@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { ExternalLinkIcon } from 'lucide-svelte'
-	import tlt_url from '../../pdfs/TLT_ Multi-fidelity fusion for ADS testing .pdf?url'
+	import tlt_url from '$lib/assets/pdfs/TLT_ Multi-fidelity fusion for ADS testing .pdf'
 </script>
 
 <article>

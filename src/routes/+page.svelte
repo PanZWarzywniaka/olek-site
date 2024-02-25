@@ -1,4 +1,5 @@
 <script lang="ts">
+	import me from '$lib/assets/home/me.png'
 </script>
 
 <div class="container">
@@ -9,7 +10,7 @@
 		<span><a href="https://en.wikipedia.org/wiki/Pierogi">Pierogi</a> enjoyer</span>
 	</div>
 	<div id="image">
-		<img src="me.png" alt="Thats me" />
+		<img src={me} alt="Thats me" />
 	</div>
 </div>
 

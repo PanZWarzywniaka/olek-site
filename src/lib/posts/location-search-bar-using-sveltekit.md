@@ -19,7 +19,7 @@ When I was coding my [map making website](maps.olek.site) got to an issue of how
 
 ![alt text](google_search_box.gif)
 
-Important feature to me was that results would come as user is typing. I didn't want the user to enter query click `Search` button and then wait for the results.
+Important feature to me was that results would be shown as user is typing. I didn't want the user to click `Search` button and wait for the results.
 
 
 
