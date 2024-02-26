@@ -21,7 +21,9 @@ When I was coding my <a href="https://maps.olek.site/" target="_blank">map makin
 
 Important feature to me was that results would be shown as user is typing. I didn't want the user to click `Search` button and wait for the results.
 
+## API endpoint
 
+For the location search endpoint I will be using <a href="https://nominatim.org/" target="_blank">Nominatim</a> API. An Open-source geocoding using OpenStreetMap data.
 
 ## Mark down
 
