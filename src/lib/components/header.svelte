@@ -20,7 +20,7 @@
 			<a href="/contact">Contact</a>
 		</li>
 		<li>
-			<a href="https://maps.olek.site/" target="_blank">Pretty maps<ExternalLinkIcon /></a>
+			<a href="https://pretty-maps.pages.dev/" target="_blank">Pretty maps<ExternalLinkIcon /></a>
 		</li>
 	</ul>
 
